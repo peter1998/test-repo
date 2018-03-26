@@ -1,1 +1,3 @@
-
+Name = Peter
+age = 19
+email = pmatov@gmail.com
